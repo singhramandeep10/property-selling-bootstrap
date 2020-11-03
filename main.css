@@ -1,0 +1,27 @@
+img:hover{
+    transform:scale(1.1,1.1);
+    transition:transform 0.5s ease ;
+}
+
+#navbardrop{
+    color:black;
+}
+.footer {
+    padding: 50px 0;
+    background: rgb(16, 31, 46);
+}
+.footer ul li{
+    display:inline-flex;
+    color:#fff;
+}
+.footer ul a{
+    color:#fff;
+    text-transform: uppercase;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+.research{
+    color:blue;
+}
